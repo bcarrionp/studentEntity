@@ -1,0 +1,5 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+integracao,integracao,Contrato,8,37,4,4,2,9,5,3,1,3
+integracao,integracao,Aluno,9,58,0,8,3,19,3,10,3,6
+integracao,integracao,Contratacao,10,0,0,0,4,0,3,0,3,0
+integracao,integracao,Contrato.RegimeTrabalho,0,15,0,0,0,3,0,1,0,1
