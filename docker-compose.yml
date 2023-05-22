@@ -10,7 +10,7 @@ services:
     - db-volume:/var/lib/postgresql/data
 
   api:
-    image: bcarrionp/studentEntity
+    image: bcarrionp/student-entity
     environment:
       DB_HOST: database
     ports:
